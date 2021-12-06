@@ -42,26 +42,13 @@ export const data = {
   ],
   "filePathRelative": "index.md",
   "git": {
-    "updatedTime": 1638778022000,
+    "updatedTime": 1638780646000,
     "contributors": [
       {
         "name": "zhanghongan",
         "email": "zhanghongan2021@163.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

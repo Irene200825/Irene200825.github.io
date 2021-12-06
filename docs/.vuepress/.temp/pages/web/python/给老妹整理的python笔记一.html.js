@@ -77,20 +77,13 @@ export const data = {
   ],
   "filePathRelative": "web/python/给老妹整理的python笔记一.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1638780646000,
+    "contributors": [
+      {
+        "name": "zhanghongan",
+        "email": "zhanghongan2021@163.com",
+        "commits": 1
+      }
+    ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
