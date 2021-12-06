@@ -1,5 +1,5 @@
 ---
-title: nginx和https配置
+title: linux安装部署nginx
 date: 2021-08-19 18:43:43
 excerpt: nginx学习
 toc: true
