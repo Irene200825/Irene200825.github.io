@@ -16,4 +16,4 @@ npm run docs:build
 
 docs/web中为博客的项目
 docs/.vuepress中为博客的相关配置
-docs/dist中的内容，为vuepress加载md文档转化成组件
+docs/dist中的内容为打包后的内容
