@@ -125,7 +125,13 @@ export const data = {
   ],
   "filePathRelative": "web/vue/vue-router/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1645520726000,
+    "contributors": [
+      {
+        "name": "zhanghongan",
+        "email": "zhanghongan2021@163.com",
+        "commits": 1
+      }
+    ]
   }
 }

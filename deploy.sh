@@ -14,7 +14,7 @@ git add -A
 git commit -m '优化'
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
-git push -f https://github.com/Irene200825/Irene200825.github.io.git main
+git push -f git@github.com:Irene200825/Irene200825.github.io.git master
 
 cd -
 
