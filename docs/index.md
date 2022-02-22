@@ -6,21 +6,25 @@ home: true
 footer: MIT Licensed | Copyright © 2021-present HongAn Zhang
 ---
 
-## Vue
-* [vue-router源码阅读笔记](./web/vue-router/README.md)
+## 框架类
+### vue
+* [vue-router源码阅读笔记](./web/vue/vue-router/README.md)
+* [vue2 & vue3](./web/vue/vue/功能点.md)
 
-## 博客搭建
-* [如何免费搭建个人博客](./web/blog/如何免费搭建个人博客.md)
 
+## 前端通信类
+* [动态数据获取方案：SSE、WebSoket](./web/webSocket/动态数据获取方案：SSE、WebSoket.md)
+  
+<!-- 
 ## python
-* [给老妹整理的python笔记一](./web/python/给老妹整理的python笔记一.md)
+* [给老妹整理的python笔记一](./web/python/给老妹整理的python笔记一.md) -->
 
-
-## canvas
+## 前端图形类
 * [canvas动画](./web/canvas/canvas动画.md)
 * [图形开发参数](./web/canvas/图形开发参数.md)
 
-## 博客搭建
-* [动态数据获取方案：SSE、WebSoket](./web/webSocket/动态数据获取方案：SSE、WebSoket.md)
 
+ ## 工具类
+<!-- * [mockjs](./web/tools/mockjs/mockjs.md) -->
+* [如何免费搭建个人博客](./web/blog/如何免费搭建个人博客.md)
 

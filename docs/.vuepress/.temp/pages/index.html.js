@@ -11,32 +11,33 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "Vue",
-      "slug": "vue",
+      "title": "框架类",
+      "slug": "框架类",
+      "children": [
+        {
+          "level": 3,
+          "title": "vue",
+          "slug": "vue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "前端通信类",
+      "slug": "前端通信类",
       "children": []
     },
     {
       "level": 2,
-      "title": "博客搭建",
-      "slug": "博客搭建",
+      "title": "前端图形类",
+      "slug": "前端图形类",
       "children": []
     },
     {
       "level": 2,
-      "title": "python",
-      "slug": "python",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "canvas",
-      "slug": "canvas",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "博客搭建",
-      "slug": "博客搭建-1",
+      "title": "工具类",
+      "slug": "工具类",
       "children": []
     }
   ],
